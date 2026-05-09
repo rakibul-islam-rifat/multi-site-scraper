@@ -98,4 +98,4 @@ That's it. The rest of the system picks it up automatically — including CSV na
 ## 👤 Author
 
 **Rifat** — [github.com/rakibul-islam-rifat](https://github.com/rakibul-islam-rifat)  
-Freelance Python developer • Web scraping & automation • Fiverr: [rifat_automates(https://www.fiverr.com/rifat_automates/)]
+Freelance Python developer • Web scraping & automation • Fiverr: [rifat_automates](https://www.fiverr.com/rifat_automates/)
