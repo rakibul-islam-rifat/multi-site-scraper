@@ -14,7 +14,7 @@ class BookScraper(BaseScraper):
     @staticmethod
     def get_title(card: Tag) -> str | None:
         title: Tag | None = card.select_one("article.product_pod > h3 > a")
-        return title.get_text(strip=True) if title else None
+        return str(title.get("title")) if title else None
 
     @staticmethod
     def get_price(card: Tag) -> float | None:
